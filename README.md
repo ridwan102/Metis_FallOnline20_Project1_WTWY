@@ -1,6 +1,8 @@
 # Metis FallOnline20 Project 1 Exploratory Data Analysis (EDA) for WomenTechWomenYes (WTWY) 
 Metis Fall Online '20 Cohort: Group Project 1 focusing on optimal placement of WomenTechWomenYes street teams in subway stations.
 Group Members: Ridwan Alam, Amanda Cheney, Andrew Duncan Sweeney, Brian Tam
+Google Slides: https://docs.google.com/presentation/d/15lRsSylhLSREBV47iXeoVLqlZFV49xHbNBHEY6avLsQ/edit#slide=id.g9b1a39aeca_8_6
+Google Colab: https://colab.research.google.com/drive/18zYK-9zbXB3jn2N8MsD0XTenehneLI1U
 
 ## Back Story
 
