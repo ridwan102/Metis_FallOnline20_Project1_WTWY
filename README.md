@@ -2,7 +2,7 @@
 ## Project 1 Exploratory Data Analysis (EDA) for WomenTechWomenYes (WTWY) 
 Group Project 1 focusing on optimal placement of WomenTechWomenYes street teams in subway stations.
 
-## Group Members:
+## Group Members
 * Ridwan Alam
 * Amanda Cheney
 * Andrew Duncan Sweeney
