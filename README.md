@@ -12,9 +12,6 @@ Group Project 1 focusing on optimal placement of WomenTechWomenYes street teams 
 * PDF of presentation
 * Jupyter Notebook used for data analysis
 
-* Google Slides: https://docs.google.com/presentation/d/15lRsSylhLSREBV47iXeoVLqlZFV49xHbNBHEY6avLsQ/edit#slide=id.g9b1a39aeca_8_6
-* Google Colab: https://colab.research.google.com/drive/18zYK-9zbXB3jn2N8MsD0XTenehneLI1U
-
 ## Project Scope 
 Develop an optimal organization of WomenTechWomenYes (WTWY) street team placement to reach out to individuals passionate about the participation of women in technology with the aims of aiding fundraising efforts, building awareness and reach.
 
@@ -61,18 +58,4 @@ An email from a potential client:
 
  * Exploratory Data Analysis
  * The [01-mta challenge](https://github.com/thisismetis/onl20_ds4/tree/master/challenges/challenges_questions/01-mta) helped the team get started with data exploration and get up to speed with the skills and tools needed to complete this project.
-
-## Deliverable/Communication:
-
- * Group presentation, 6 minutes
- * Presentation slides
- * Project repository
-
-**Friday 9/25:** PDF of presentation slides submitted on submissions form (see [these](https://github.com/thisismetis/onl20_ds4/blob/master/curriculum/project-01/git-1/submissions.md) instructions). 
-
-**Monday 9/28:** Code submission is due before in the morning before class starts. Include code and README file. Only one person needs to submit on behalf of the whole group.
-
----
-
-As with all projects, it will be graded based on this [rubric](https://docs.google.com/document/d/1oAJrWNR7HxNJVI2IHUuHArEvBccowLqvPObYbqtH0rs/edit).  
 
