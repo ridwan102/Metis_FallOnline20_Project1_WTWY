@@ -1,11 +1,28 @@
 # Metis Fall Online 2020 Cohort 
-# Project 1 Exploratory Data Analysis (EDA) for WomenTechWomenYes (WTWY) 
+## Project 1 Exploratory Data Analysis (EDA) for WomenTechWomenYes (WTWY) 
 Group Project 1 focusing on optimal placement of WomenTechWomenYes street teams in subway stations.
-# Group Members:
-* Ridwan Alam, Amanda Cheney, Andrew Duncan Sweeney, Brian Tam
+
+## Group Members:
+* Ridwan Alam
+* Amanda Cheney
+* Andrew Duncan Sweeney
+* Brian Tam
+
+## Repo Contents 
+* PDF of presentation
+* Jupyter Notebook used for data analysis
 
 * Google Slides: https://docs.google.com/presentation/d/15lRsSylhLSREBV47iXeoVLqlZFV49xHbNBHEY6avLsQ/edit#slide=id.g9b1a39aeca_8_6
 * Google Colab: https://colab.research.google.com/drive/18zYK-9zbXB3jn2N8MsD0XTenehneLI1U
+
+## Project Scope 
+Develop an optimal organization of WomenTechWomenYes (WTWY) street team placement to reach out to individuals passionate about the participation of women in technology with the aims of aiding fundraising efforts, building awareness and reach.
+
+## Project Methodology
+* Use MTA subway data to identify highest trafficked stations to target two distinct groups of interest to WomenTechWomenYes (WTWY)
+* Target potential donors (Professionals) and potential program participants (Students & areas outside of Manhattan)
+* Time Period: August 17, 2019 - September 21, 2019
+
 
 ## Back Story
 
